@@ -11,7 +11,8 @@
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "slidev-theme-penguin": "^1.4.1"
+    "slidev-theme-penguin": "^1.4.1",
+    "vue-typed-js": "^0.1.2"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.8",
