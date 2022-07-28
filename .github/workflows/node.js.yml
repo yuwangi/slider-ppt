@@ -26,5 +26,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm init slidev@latest
+    - run: npm i -g @slidev/cli
     - run: npm run dev
